@@ -1,7 +1,9 @@
+[← Back to portfolio](https://github.com/BettyjannehDigital)
+
 # Social Media Marketing – OneOhOne Jewelry
 
 **Assignment | Noroff Digital Marketing | March 2026**  
-**Brand:** OneOhOne Jewelry &nbsp;|&nbsp; **Platforms:** TikTok & Instagram
+**Brand:** OneOhOne Jewelry | **Platforms:** TikTok & Instagram
 
 ---
 
@@ -16,8 +18,8 @@ This is not a simulated exercise. The content was published, and the data is rea
 ## What's Inside
 
 | File | Description |
-|---|---|
-| `SoMe_Marketing_Case_Study_OneOhOne_Jewelry.pdf` | Full assignment report including strategy, content, analytics, and reflection |
+| --- | --- |
+| [SoMe Marketing Case Study OneOhOne Jewelry PDF.pdf](https://github.com/BettyjannehDigital/SoMe--Marketing-OneOhOne/blob/main/SoMe%20Marketing%20Case%20Study%20OneOhOne%20Jewelry%20PDF.pdf) | Full assignment report including strategy, content, analytics, and reflection |
 
 ---
 
@@ -35,16 +37,19 @@ This is not a simulated exercise. The content was published, and the data is rea
 ## Highlights from the Data
 
 **TikTok Video (Confidence & lifestyle):**
+
 - 668 views in first 24 hours
 - 100% new viewers, 100% non-followers
 - 97.7% reached via For You page
 - Audience: 91% female, 18–34 | Top locations: Norway, Sweden, Denmark
 
 **TikTok Carousel (Educational):**
+
 - 83% new viewers, 81% non-followers
 - 4 comments — strong early engagement signal for a new account
 
 **Instagram Reel (Product – Alex bracelet):**
+
 - Average watch time (15s) exceeded video length (8s) — confirms replay behaviour
 
 ---
@@ -61,3 +66,8 @@ OneOhOne Jewelry is a culturally rooted waist jewelry brand handmade in The Gamb
 
 🔗 [oneohonejewelry.com](https://www.oneohonejewelry.com)  
 📱 [@oneohonejewelry](https://www.instagram.com/oneohonejewelry)
+
+## Related Projects
+
+- [Marketing Strategy – OneOhOne Jewelry](https://github.com/BettyjannehDigital/OneOhOne-Jewelry-Marketing-Strategy)
+- [Paid Advertising Strategy – OneOhOne Jewelry](https://github.com/BettyjannehDigital/Paid-Advertising-Strategy-OneOhOne)
